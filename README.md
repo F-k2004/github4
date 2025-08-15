@@ -1,2 +1,1 @@
-# github4
-just testing githab
+python weather_simulator.py
