@@ -1,1 +1,1 @@
-python weather_simulator.py
+python weather_simulato.py
